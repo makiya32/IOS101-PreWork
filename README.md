@@ -21,6 +21,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Partiful : very pretty UI and the AI features
+I like apps that are widget friendly
+Google Maps: very useful for me and widget friendly
+FireFox Focus : an add blocker app for my phone and safe browsing 
 
 ## Notes
 
